@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/researchlab/fvx/fvx/blog</id>
+    <title>Fvx Blog</title>
+    <updated>2021-09-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/researchlab/fvx/fvx/blog"/>
+    <subtitle>Fvx Blog</subtitle>
+    <icon>https://github.com/researchlab/fvx/fvx/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-09-02]]></title>
+        <id>2021-09-02</id>
+        <link href="https://github.com/researchlab/fvx/fvx/blog/2021/09/02/"/>
+        <updated>2021-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[更新日志]]></summary>
+        <author>
+            <name>Mike</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-09-01]]></title>
+        <id>2021-09-01</id>
+        <link href="https://github.com/researchlab/fvx/fvx/blog/2021/09/01/"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[更新日志]]></summary>
+        <author>
+            <name>Mike</name>
+        </author>
+    </entry>
+</feed>

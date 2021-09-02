@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Fvx Blog</title>
+        <link>https://github.com/researchlab/fvx/fvx/blog</link>
+        <description>Fvx Blog</description>
+        <lastBuildDate>Thu, 02 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021-09-02]]></title>
+            <link>https://github.com/researchlab/fvx/fvx/blog/2021/09/02/</link>
+            <guid>2021-09-02</guid>
+            <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[更新日志]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2021-09-01]]></title>
+            <link>https://github.com/researchlab/fvx/fvx/blog/2021/09/01/</link>
+            <guid>2021-09-01</guid>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[更新日志]]></description>
+        </item>
+    </channel>
+</rss>
