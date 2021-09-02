@@ -31,12 +31,6 @@ module.exports = {
         },
 				{
 					type: 'doc',
-					docId: 'dev',
-					position: 'right',
-					label: '开发指南'
-				},
-				{
-					type: 'doc',
 					docId: 'plugin',
 					position: 'right',
 					label: '插件开发指南'
