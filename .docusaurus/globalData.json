@@ -1,0 +1,33 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "usage",
+          "docs": [
+            {
+              "id": "dev",
+              "path": "/docs/dev",
+              "sidebar": "Dev"
+            },
+            {
+              "id": "plugin",
+              "path": "/docs/plugin",
+              "sidebar": "Plugin"
+            },
+            {
+              "id": "usage",
+              "path": "/docs/usage",
+              "sidebar": "Docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

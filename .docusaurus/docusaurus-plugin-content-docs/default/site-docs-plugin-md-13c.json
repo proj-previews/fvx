@@ -1,0 +1,16 @@
+{
+  "unversionedId": "plugin",
+  "id": "plugin",
+  "isDocsHomePage": false,
+  "title": "plugin",
+  "description": "",
+  "source": "@site/docs/plugin.md",
+  "sourceDirName": ".",
+  "slug": "/plugin",
+  "permalink": "/docs/plugin",
+  "editUrl": "https://github.com/proj-previews/fvx/edit/main/docs/plugin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Plugin"
+}

@@ -1,0 +1,90 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 3rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.mainBody{
+  padding: 0 0 3rem;
+  width: 100%;
+	background-color: #f7f7f7;
+	height: 380px;
+}
+.tokenBox{
+	background-color: rgb(41, 45, 62);
+	color: rgb(191, 199, 213);
+	padding:17px;
+	font-size:18px;
+	border-radius: 8px;
+}
+.code{
+	max-width:600px!important;
+}
+.codeBox{
+	border: 1px solid black;
+	background-color: rgb(41, 45, 62);
+	color: rgb(191, 199, 213);
+	border-radius: 3px;
+	box-shadow: 2px 2px 12px #8f8f8f;
+}
+
+.codeTitle{
+	display: flex;
+	height: 20px;
+	padding: 10px;
+}
+
+.titleRed{
+	width: 10px;
+	height:10px;
+	border-radius:50%;
+	background-color:#e85252;
+}
+.titleYellow{
+	width: 10px;
+	height:10px;
+	border-radius:50%;
+	background-color: #f7b233;
+	margin: 0 5px;
+}
+.titleGreen{
+	width: 10px;
+	height:10px;
+	border-radius:50%;
+	background-color: #09da09;
+}
+
+.codeContent{
+		padding: 5px 10px 10px;
+		font-size:13px;
+}
+
+.maintain {
+  display: flex;
+  align-items: center;
+  padding: 1rem 0 6rem;
+	min-height: 550px;
+  width: 100%;
+}
+
+.wYellow{
+	color: yellow;
+}
+
+.wSkyBlue{
+	color: skyblue;
+}
+
+.wGreen{
+	color: #55de55;
+}
+
+.wBlue{
+	color: #1e80ff;
+}

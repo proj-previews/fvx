@@ -1,0 +1,16 @@
+{
+  "unversionedId": "usage",
+  "id": "usage",
+  "isDocsHomePage": false,
+  "title": "usage",
+  "description": "",
+  "source": "@site/docs/usage.md",
+  "sourceDirName": ".",
+  "slug": "/usage",
+  "permalink": "/docs/usage",
+  "editUrl": "https://github.com/proj-previews/fvx/edit/main/docs/usage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Docs"
+}

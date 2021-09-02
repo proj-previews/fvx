@@ -1,24 +1,33 @@
-<p align="center">
-  <a href="https://github.com/researchlab/fvx">
-    <img width="200" src="./assets/favicon.ico">
-  </a>
-</p>
+# Website
 
-<h1 align="center">Fvx</h1>
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-<div align="center">
+### Installation
 
-⭐️  An automatic, convenience and flexible scaffold Tooling for React Development. ⭐️
+```
+$ yarn
+```
 
-[![GitHub issues][issues-image]][issues-url] [![GitHub forks][forks-image]][forks-url] [![GitHub stars][stars-image]][stars-url] [![NPM version][npm-image]][npm-url]
+### Local Development
 
-[issues-image]: https://img.shields.io/github/issues/researchlab/fvx?style=flat-square
-[issues-url]: https://github.com/researchlab/fvx/issues
-[forks-image]: https://img.shields.io/github/forks/researchlab/fvx?style=flat-square
-[forks-url]: https://github.com/researchlab/fvx/network/members
-[stars-image]: https://img.shields.io/github/stars/researchlab/fvx?style=flat-square
-[stars-url]: https://github.com/researchlab/fvx/stargazers
-[npm-image]: https://img.shields.io/npm/v/fvx?style=flat-square
-[npm-url]: https://www.npmjs.com/package/fvx 
+```
+$ yarn start
+```
 
-</div>
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+```
+$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "api",
+  "id": "api",
+  "isDocsHomePage": false,
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/api.md",
+  "sourceDirName": ".",
+  "slug": "/api",
+  "permalink": "/docs/api",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "API",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/api"
+  }
+}
