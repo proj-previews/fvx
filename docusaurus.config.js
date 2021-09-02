@@ -6,11 +6,11 @@ module.exports = {
   title: 'Fvx',
   tagline: '⭐️  An automatic, convenience and flexible scaffold Tooling for React Development. ⭐️',
   url: 'https://github.com/researchlab/fvx',
-  baseUrl: '/',
+	baseUrl: '/fvx/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'researchlab', // Usually your GitHub org/user name.
+  organizationName: 'proj-previews', // Usually your GitHub org/user name.
   projectName: 'fvx', // Usually your repo name.
   themeConfig: {
 		colorMode:{
@@ -100,11 +100,15 @@ module.exports = {
           // Please change this to your repo.
           editUrl: 'https://github.com/proj-previews/fvx/edit/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-					'https://github.com/proj-previews/fvx/edit/main/',
+				//blog: {
+        //  showReadingTime: true,
+        //  // Please change this to your repo.
+        //  editUrl:
+				//	'https://github.com/proj-previews/fvx/edit/main/',
+        //},
+				blog: {
+          path: 'blog',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
